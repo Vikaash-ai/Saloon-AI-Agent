@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+playwright
+google-generativeai
+firebase-admin
+python-dotenv
+beautifulsoup4
+pydantic
